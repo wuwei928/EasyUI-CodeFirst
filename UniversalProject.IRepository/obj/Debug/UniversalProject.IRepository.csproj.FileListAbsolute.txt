@@ -1,0 +1,7 @@
+G:\person\UniversalProject\UniversalProject.IRepository\bin\Debug\UniversalProject.IRepository.dll
+G:\person\UniversalProject\UniversalProject.IRepository\bin\Debug\UniversalProject.IRepository.pdb
+G:\person\UniversalProject\UniversalProject.IRepository\bin\Debug\UniversalProject.DataModel.dll
+G:\person\UniversalProject\UniversalProject.IRepository\bin\Debug\UniversalProject.DataModel.pdb
+G:\person\UniversalProject\UniversalProject.IRepository\obj\Debug\UniversalProject.IRepository.csprojResolveAssemblyReference.cache
+G:\person\UniversalProject\UniversalProject.IRepository\obj\Debug\UniversalProject.IRepository.dll
+G:\person\UniversalProject\UniversalProject.IRepository\obj\Debug\UniversalProject.IRepository.pdb

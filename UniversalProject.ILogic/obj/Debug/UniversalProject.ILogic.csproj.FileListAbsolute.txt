@@ -1,0 +1,9 @@
+G:\person\UniversalProject\UniversalProject.ILogic\bin\Debug\UniversalProject.ILogic.dll
+G:\person\UniversalProject\UniversalProject.ILogic\bin\Debug\UniversalProject.ILogic.pdb
+G:\person\UniversalProject\UniversalProject.ILogic\bin\Debug\UniversalProject.Common.dll
+G:\person\UniversalProject\UniversalProject.ILogic\bin\Debug\UniversalProject.DataModel.dll
+G:\person\UniversalProject\UniversalProject.ILogic\bin\Debug\UniversalProject.Common.pdb
+G:\person\UniversalProject\UniversalProject.ILogic\bin\Debug\UniversalProject.DataModel.pdb
+G:\person\UniversalProject\UniversalProject.ILogic\obj\Debug\UniversalProject.ILogic.csprojResolveAssemblyReference.cache
+G:\person\UniversalProject\UniversalProject.ILogic\obj\Debug\UniversalProject.ILogic.dll
+G:\person\UniversalProject\UniversalProject.ILogic\obj\Debug\UniversalProject.ILogic.pdb

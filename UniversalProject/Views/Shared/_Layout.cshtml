@@ -1,0 +1,28 @@
+﻿@using System.Web.Optimization
+@using System.Web.UI.WebControls
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>main</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <div style="margin:20px 0;"></div>
+    <div class="easyui-layout" style="width: 700px; height: 350px;">
+        <div data-options="region:'center',iconCls:'icon-ok'">
+            @RenderBody()
+        </div>
+    </div>
+    @*@Scripts.Render("~/bundles/jquery")*@
+    <script src="~/scripts/jquery-1.11.3.min.js"></script>
+    @Scripts.Render("~/bundles/easyUI")
+    @Scripts.Render("~/bundles/universal")
+</body>
+</html>

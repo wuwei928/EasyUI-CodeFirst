@@ -1,0 +1,17 @@
+G:\person\UniversalProject\UniversalProject.DAO\bin\Debug\UniversalProject.DAO.dll.config
+G:\person\UniversalProject\UniversalProject.DAO\bin\Debug\UniversalProject.DAO.dll
+G:\person\UniversalProject\UniversalProject.DAO\bin\Debug\UniversalProject.DAO.pdb
+G:\person\UniversalProject\UniversalProject.DAO\bin\Debug\EntityFramework.dll
+G:\person\UniversalProject\UniversalProject.DAO\bin\Debug\EntityFramework.SqlServer.dll
+G:\person\UniversalProject\UniversalProject.DAO\bin\Debug\EntityFramework.xml
+G:\person\UniversalProject\UniversalProject.DAO\bin\Debug\EntityFramework.SqlServer.xml
+G:\person\UniversalProject\UniversalProject.DAO\obj\Debug\UniversalProject.DAO.csprojResolveAssemblyReference.cache
+G:\person\UniversalProject\UniversalProject.DAO\obj\Debug\UniversalProject.DAO.dll
+G:\person\UniversalProject\UniversalProject.DAO\obj\Debug\UniversalProject.DAO.pdb
+G:\person\UniversalProject\UniversalProject.DAO\bin\Debug\UniversalProject.DataModel.dll
+G:\person\UniversalProject\UniversalProject.DAO\bin\Debug\UniversalProject.DataModel.pdb
+G:\person\UniversalProject\UniversalProject.DAO\obj\Debug\UniversalProject.DAO.Migrations.initialize.resources
+G:\person\UniversalProject\UniversalProject.DAO\obj\Debug\UniversalProject.DAO.csproj.GenerateResource.Cache
+G:\person\UniversalProject\EasyUI-CodeFirst\UniversalProject.DAO\obj\Debug\UniversalProject.DAO.csprojResolveAssemblyReference.cache
+G:\person\UniversalProject\EasyUI-CodeFirst\UniversalProject.DAO\obj\Debug\UniversalProject.ADO.Migrations.initialize.resources
+G:\person\UniversalProject\EasyUI-CodeFirst\UniversalProject.DAO\obj\Debug\UniversalProject.DAO.csproj.GenerateResource.Cache

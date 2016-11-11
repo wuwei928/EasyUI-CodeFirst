@@ -1,0 +1,5 @@
+G:\person\UniversalProject\UniversalProject.Common\bin\Debug\UniversalProject.Common.dll
+G:\person\UniversalProject\UniversalProject.Common\bin\Debug\UniversalProject.Common.pdb
+G:\person\UniversalProject\UniversalProject.Common\obj\Debug\UniversalProject.Common.csprojResolveAssemblyReference.cache
+G:\person\UniversalProject\UniversalProject.Common\obj\Debug\UniversalProject.Common.dll
+G:\person\UniversalProject\UniversalProject.Common\obj\Debug\UniversalProject.Common.pdb

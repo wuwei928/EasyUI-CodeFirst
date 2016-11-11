@@ -1,0 +1,17 @@
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.Logic.dll
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.Logic.pdb
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\Castle.Core.dll
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\Castle.Windsor.dll
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.Common.dll
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.DataModel.dll
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.ILogic.dll
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.IRepository.dll
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.Common.pdb
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.DataModel.pdb
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.ILogic.pdb
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\UniversalProject.IRepository.pdb
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\Castle.Core.xml
+G:\person\UniversalProject\UniversalProject.Logic\bin\Debug\Castle.Windsor.xml
+G:\person\UniversalProject\UniversalProject.Logic\obj\Debug\UniversalProject.Logic.csprojResolveAssemblyReference.cache
+G:\person\UniversalProject\UniversalProject.Logic\obj\Debug\UniversalProject.Logic.dll
+G:\person\UniversalProject\UniversalProject.Logic\obj\Debug\UniversalProject.Logic.pdb
